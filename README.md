@@ -39,17 +39,17 @@ A list of interesting conference talks and great videos about Software Developme
 | [AFUP PHP](https://www.youtube.com/user/afupPHP) | PHP | 🇫🇷 🇬🇧  |
 | [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) | PHP, Laravel | 🇬🇧  |
 | [SymfonyLive](https://www.youtube.com/user/SensioLabs/playlists) | PHP, Symfony | 🇬🇧 🇫🇷 🇩🇪  |
-| [PHP UK Conference](https://www.youtube.com/user/phpukconference) | PHP |   |
-| [Scotland PHP](https://www.youtube.com/channel/UC3h-CCBdrg_cFY847g_7i-A) |  |   |
-| [Szczecin PHP Users Group](https://www.youtube.com/channel/UCJf15AsucY2oW6lZj0gnArA/featured) |  |   |
-| [PHPers](https://www.youtube.com/user/PHPersPL) |  |   |
-| [PHPKonf](https://www.youtube.com/channel/UCcvHdGi25hSmSdQaSiGwJ8A/featured) |  |   |
-| [Ibuildings Dutch PHP Conference](https://www.youtube.com/user/DutchPHPConference) |  |   |
-| [PHPBenelux](https://www.youtube.com/user/PHPBenelux) |  |   |
-| [International PHP Conference](https://www.youtube.com/user/PHPcon)  |  |   |
-| [LaravelConf Taiwan](https://www.youtube.com/channel/UCZp5GBcPLFvzcbja_J5NdPw)  |  |   |
-| [PHP Srbija](https://www.youtube.com/user/PHPSrbijaVideo) |  |   |
-| [CODEiD PHP Community](https://www.youtube.com/channel/UCxHh468aN8TazO2brjGAtWw)  |  |   |
+| [PHP UK Conference](https://www.youtube.com/user/phpukconference) | PHP |  🇬🇧 |
+| [Scotland PHP](https://www.youtube.com/channel/UC3h-CCBdrg_cFY847g_7i-A) | PHP |  🇬🇧 |
+| [Szczecin PHP Users Group](https://www.youtube.com/channel/UCJf15AsucY2oW6lZj0gnArA/featured) | PHP | 🇵🇱  |
+| [PHPers](https://www.youtube.com/user/PHPersPL) | PHP  | 🇵🇱  |
+| [PHPKonf](https://www.youtube.com/channel/UCcvHdGi25hSmSdQaSiGwJ8A/featured) | PHP | 🇬🇧  |
+| [Ibuildings Dutch PHP Conference](https://www.youtube.com/user/DutchPHPConference) | PHP | 🇬🇧  |
+| [PHPBenelux](https://www.youtube.com/user/PHPBenelux) | PHP | 🇬🇧  |
+| [International PHP Conference](https://www.youtube.com/user/PHPcon)  | PHP |  🇬🇧 |
+| [LaravelConf Taiwan](https://www.youtube.com/channel/UCZp5GBcPLFvzcbja_J5NdPw)  | PHP, Laravel | 🇹🇼  |
+| [PHP Srbija](https://www.youtube.com/user/PHPSrbijaVideo) | PHP | 🇷🇸 🇬🇧  |
+| [CODEiD PHP Community](https://www.youtube.com/channel/UCxHh468aN8TazO2brjGAtWw)  | PHP | 🇬🇧 🇺🇦 🇷🇺  |
 
 #### JavaScript
 
