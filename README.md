@@ -36,17 +36,17 @@ A list of interesting conference talks and great videos about Software Developme
 |-------|:--------:|:----:|
 | [PHP Barcelona](https://www.youtube.com/channel/UCTRJkDjGNX3kId6RhxgIOmw) | PHP  | 🇬🇧  |
 | [php[architect]](https://www.youtube.com/channel/UCUEzH08rDNBfljD9PGVZujg) | PHP  | 🇬🇧  |
-| [AFUP PHP](https://www.youtube.com/user/afupPHP) | PHP | 🇫🇷 🇬🇧  |
-| [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) | PHP, Laravel | 🇬🇧  |
+| [AFUP PHP](https://www.youtube.com/user/afupPHP) | PHP, Symfony, GraphQL, Architecture | 🇫🇷 🇬🇧  |
+| [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) | PHP, Laravel, DDD, Design Patterns, Testing | 🇬🇧  |
 | [SymfonyLive](https://www.youtube.com/user/SensioLabs/playlists) | PHP, Symfony | 🇬🇧 🇫🇷 🇩🇪  |
-| [PHP UK Conference](https://www.youtube.com/user/phpukconference) | PHP |  🇬🇧 |
+| [PHP UK Conference](https://www.youtube.com/user/phpukconference) | PHP, Architecture, Testing, Docker |  🇬🇧 |
 | [Scotland PHP](https://www.youtube.com/channel/UC3h-CCBdrg_cFY847g_7i-A) | PHP |  🇬🇧 |
-| [Szczecin PHP Users Group](https://www.youtube.com/channel/UCJf15AsucY2oW6lZj0gnArA/featured) | PHP | 🇵🇱  |
-| [PHPers](https://www.youtube.com/user/PHPersPL) | PHP  | 🇵🇱  |
+| [Szczecin PHP Users Group](https://www.youtube.com/channel/UCJf15AsucY2oW6lZj0gnArA/featured) | PHP, CQRS, ES, Testing | 🇵🇱  |
+| [PHPers](https://www.youtube.com/user/PHPersPL) | PHP, Symfony, Architecture, Design Patterns, Testing  | 🇵🇱  |
 | [PHPKonf](https://www.youtube.com/channel/UCcvHdGi25hSmSdQaSiGwJ8A/featured) | PHP | 🇬🇧  |
-| [Ibuildings Dutch PHP Conference](https://www.youtube.com/user/DutchPHPConference) | PHP | 🇬🇧  |
+| [Ibuildings Dutch PHP Conference](https://www.youtube.com/user/DutchPHPConference) | PHP, Architecture, Docker, Testing | 🇬🇧  |
 | [PHPBenelux](https://www.youtube.com/user/PHPBenelux) | PHP | 🇬🇧  |
-| [International PHP Conference](https://www.youtube.com/user/PHPcon)  | PHP |  🇬🇧 |
+| [International PHP Conference](https://www.youtube.com/user/PHPcon)  | PHP, Docker, CD, REST, Testing |  🇬🇧 |
 | [LaravelConf Taiwan](https://www.youtube.com/channel/UCZp5GBcPLFvzcbja_J5NdPw)  | PHP, Laravel | 🇹🇼  |
 | [PHP Srbija](https://www.youtube.com/user/PHPSrbijaVideo) | PHP | 🇷🇸 🇬🇧  |
 | [CODEiD PHP Community](https://www.youtube.com/channel/UCxHh468aN8TazO2brjGAtWw)  | PHP | 🇬🇧 🇺🇦 🇷🇺  |
