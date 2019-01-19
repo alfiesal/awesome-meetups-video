@@ -4,6 +4,7 @@ Awesome Conferences Video
 ## Conferences
 
 + [General](#general)
++ [Java](#java)
 + [PHP](#php)
 + [Java Script](#java-script)
 + [DevOps](#devops)
@@ -13,9 +14,15 @@ Awesome Conferences Video
     
 #### General
 
+* [Build Stuff](https://www.youtube.com/channel/UCis5B3Zru-vymPRcbpM1NEA)
+* [GOTO Conferences](https://www.youtube.com/user/GotoConferences/featured)
 * [Boiling Frogs PL](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw)
 * [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ/featured)
+* [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/featured)
 
+#### Java
+
+* [JDD Conference](https://www.youtube.com/user/JDDConference/featured)
     
 #### PHP
 
@@ -33,16 +40,28 @@ Awesome Conferences Video
 * [PHPBenelux](https://www.youtube.com/user/PHPBenelux)
 * [International PHP Conference](https://www.youtube.com/user/PHPcon) 
 * [LaravelConf Taiwan](https://www.youtube.com/channel/UCZp5GBcPLFvzcbja_J5NdPw) 
+* [PHP Srbija](https://www.youtube.com/user/PHPSrbijaVideo) 
+* [CODEiD PHP Community](https://www.youtube.com/channel/UCxHh468aN8TazO2brjGAtWw) 
 
 
 #### JavaScript
 
 * [International JavaScript Conference](https://www.youtube.com/channel/UCYMuZm39Z5Qc7JZfiYoxemQ)
-
+* [Front Fest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA)
+* [JSConf](https://www.youtube.com/user/jsconfeu)
+* [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw)
+* [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw/featured)
+* [JSNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ)
+* [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/featured)
+* [ng-conf](https://www.youtube.com/user/ngconfvideos)
+* [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A)
+* [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/featured)
 
 #### DevOps
 
 * [DevOps Conference](https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ)
+* [ScaleConf](https://www.youtube.com/user/ScaleConf)
+* [Pipeline Conf](https://www.youtube.com/channel/UC09ek6uwZKJYAxGuv5eoCrQ)
 
 #### Machine Learning
 
@@ -50,4 +69,8 @@ Awesome Conferences Video
 
 #### Domain Driven Design
 
+* [Domain-Driven Design Europe](https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ)
+* [Explore DDD](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag)
+* [Domain Driven Design France](https://www.youtube.com/channel/UCyqzNZFVOwc8paEVn-wtdpg)
+* [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA)
 
