@@ -34,12 +34,12 @@ A list of interesting conference talks and great videos about Software Developme
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [PHP Barcelona](https://www.youtube.com/channel/UCTRJkDjGNX3kId6RhxgIOmw) |  |   |
-| [php[architect]](https://www.youtube.com/channel/UCUEzH08rDNBfljD9PGVZujg) |  |   |
-| [AFUP PHP](https://www.youtube.com/channel/UCTRJkDjGNX3kId6RhxgIOmw) |  |   |
-| [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) |  |   |
-| [SymfonyLive](https://www.youtube.com/user/SensioLabs/playlists) |  |   |
-| [PHP UK Conference](https://www.youtube.com/user/phpukconference) |  |   |
+| [PHP Barcelona](https://www.youtube.com/channel/UCTRJkDjGNX3kId6RhxgIOmw) | PHP  | 🇬🇧  |
+| [php[architect]](https://www.youtube.com/channel/UCUEzH08rDNBfljD9PGVZujg) | PHP  | 🇬🇧  |
+| [AFUP PHP](https://www.youtube.com/user/afupPHP) | PHP | 🇫🇷 🇬🇧  |
+| [Laracon EU](https://www.youtube.com/channel/UCb9XEo_1SDNR8Ucpbktrg5A) | PHP, Laravel | 🇬🇧  |
+| [SymfonyLive](https://www.youtube.com/user/SensioLabs/playlists) | PHP, Symfony | 🇬🇧 🇫🇷 🇩🇪  |
+| [PHP UK Conference](https://www.youtube.com/user/phpukconference) | PHP |   |
 | [Scotland PHP](https://www.youtube.com/channel/UC3h-CCBdrg_cFY847g_7i-A) |  |   |
 | [Szczecin PHP Users Group](https://www.youtube.com/channel/UCJf15AsucY2oW6lZj0gnArA/featured) |  |   |
 | [PHPers](https://www.youtube.com/user/PHPersPL) |  |   |
