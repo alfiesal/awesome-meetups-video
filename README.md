@@ -33,7 +33,7 @@ A list of interesting conference talks and great videos about Software Developme
 #### PHP
 
 | Conference/Meetup | Topic | Language | 
-|-------|:--------:|:----:|
+|--------------|:--------:|:----:|
 | [PHP Barcelona](https://www.youtube.com/channel/UCTRJkDjGNX3kId6RhxgIOmw) | PHP  | 🇬🇧  |
 | [php[architect]](https://www.youtube.com/channel/UCUEzH08rDNBfljD9PGVZujg) | PHP  | 🇬🇧  |
 | [AFUP PHP](https://www.youtube.com/user/afupPHP) | PHP, Symfony, GraphQL, Architecture | 🇫🇷 🇬🇧  |
