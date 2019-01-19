@@ -14,6 +14,10 @@ A list of interesting conference talks and great videos about Software Developme
     
 #### General
 
+| Conference/Meetup | Topic | Language | 
+|-------|:--------:|:----:|:-----:|:---:|-----|
+| [Build Stuff](https://www.youtube.com/channel/UCis5B3Zru-vymPRcbpM1NEA) | Topic | Language | 
+
 * [Build Stuff](https://www.youtube.com/channel/UCis5B3Zru-vymPRcbpM1NEA)
 * [GOTO Conferences](https://www.youtube.com/user/GotoConferences/featured)
 * [Boiling Frogs PL](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw)
