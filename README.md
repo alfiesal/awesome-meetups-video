@@ -96,8 +96,8 @@ A list of interesting conference talks and great videos about Software Developme
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [Domain-Driven Design Europe](https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ) |  |   |
-| [Explore DDD](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) |  |   |
-| [Domain Driven Design France](https://www.youtube.com/channel/UCyqzNZFVOwc8paEVn-wtdpg) |  |   |
-| [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) |  |   |
+| [Domain-Driven Design Europe](https://www.youtube.com/channel/UC3PGn-hQdbtRiqxZK9XBGqQ) | DDD | 🇬🇧  |
+| [Explore DDD](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) | DDD | 🇬🇧  |
+| [Domain Driven Design France](https://www.youtube.com/channel/UCyqzNZFVOwc8paEVn-wtdpg) | DDD | 🇫🇷 🇬🇧  |
+| [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) | DDD | 🇬🇧  |
 
