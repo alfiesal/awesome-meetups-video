@@ -16,19 +16,19 @@ A list of interesting conference talks and great videos about Software Developme
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [Build Stuff](https://www.youtube.com/channel/UCis5B3Zru-vymPRcbpM1NEA) |  |   |
-| [GOTO Conferences](https://www.youtube.com/user/GotoConferences/featured)|  |   |
-| [Boiling Frogs PL](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw) |  |   |
-| [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ/featured) |  |   |
-| [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/featured) |  |   |
-| [DEVit Conference](https://www.youtube.com/channel/UCrKmMv6c6oqZPYC7zzbP-RQ/about) |  |   |
+| [Build Stuff](https://www.youtube.com/channel/UCis5B3Zru-vymPRcbpM1NEA) |  |  🇬🇧 |
+| [GOTO Conferences](https://www.youtube.com/user/GotoConferences/featured)|  |  🇬🇧 |
+| [Boiling Frogs PL](https://www.youtube.com/channel/UCgUfIjfLvWmARsQ-d5gPzrw) |  | 🇵🇱  |
+| [WeAreDevelopers](https://www.youtube.com/channel/UCSD0dLRGQk_T-D3RvpM5aFQ/featured) |  | 🇬🇧  |
+| [NDC Conferences](https://www.youtube.com/channel/UCTdw38Cw6jcm0atBPA39a0Q/featured) |  | 🇬🇧  |
+| [DEVit Conference](https://www.youtube.com/channel/UCrKmMv6c6oqZPYC7zzbP-RQ/about) |  |🇬🇧   |
 
 
 #### Java
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [JDD Conference](https://www.youtube.com/user/JDDConference/featured) |  |   |
+| [JDD Conference](https://www.youtube.com/user/JDDConference/featured) |  | 🇵🇱 🇬🇧|
     
 #### PHP
 
