@@ -55,20 +55,20 @@ A list of interesting conference talks and great videos about Software Developme
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [International JavaScript Conference](https://www.youtube.com/channel/UCYMuZm39Z5Qc7JZfiYoxemQ) |  |   |
-| [Front Fest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA) |  |   |
-| [JSConf](https://www.youtube.com/user/jsconfeu) |  |   |
-| [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw) |  |   |
-| [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw/featured) |  |   |
-| [JSNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ) |  |   |
-| [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/featured) |  |   |
-| [ng-conf](https://www.youtube.com/user/ngconfvideos) |  |   |
-| [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A) |  |   |
-| [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/featured) |  |   |
-| [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw) |  |   |
-| [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ) |  |   |
-| [dotconferences](https://www.youtube.com/user/dotconferences) |  |   |
-| [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg) |  |   |
+| [International JavaScript Conference](https://www.youtube.com/channel/UCYMuZm39Z5Qc7JZfiYoxemQ) | Angular, React, Vue, DDD, GraphQL | 🇬🇧  |
+| [Front Fest](https://www.youtube.com/channel/UCPRrzC1XcqKJWoKsqS4MDtA) | JS | 🇷🇺 🇬🇧  |
+| [JSConf](https://www.youtube.com/user/jsconfeu) | JS, HTML&CSS, node.js | 🇬🇧  |
+| [React Amsterdam](https://www.youtube.com/channel/UCsFrt8oKNYXGspSlX9u6uXw) | React, GraphQL, Redux |  🇬🇧 |
+| [React Day Berlin](https://www.youtube.com/channel/UC1EYHmQYBUJjkmL6OtK4rlw/featured) | React, Redux, Testing, GraphQL |  🇬🇧 |
+| [JSNation](https://www.youtube.com/channel/UCQM428Hwrvxla8DCgjGONSQ) |  | 🇬🇧  |
+| [AngularConnect](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g/featured) | Angular, JS | 🇬🇧  |
+| [ng-conf](https://www.youtube.com/user/ngconfvideos) |  | 🇬🇧  |
+| [React Europe](https://www.youtube.com/channel/UCorlLn2oZfgOJ-FUcF2eZ1A) | JS, React, Redux, GraphQL |  🇬🇧 |
+| [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ/featured) |  | 🇬🇧  |
+| [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw) |  | 🇬🇧  |
+| [JSCamp](https://www.youtube.com/channel/UCVLlWT1NZZEJs4A67XgObnQ) |  | 🇬🇧  |
+| [dotconferences](https://www.youtube.com/user/dotconferences) | JS, CSS | 🇬🇧  |
+| [JS Kongress](https://www.youtube.com/channel/UCe2uw4y9oTxfq-Z61ODWRhg) |  | 🇬🇧  |
 
 #### CSS
 
