@@ -81,10 +81,11 @@ A list of interesting conference talks and great videos about Software Developme
 
 | Conference/Meetup | Topic | Language | 
 |-------|:--------:|:----:|
-| [DevOps Conference](https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ) |  |   |
-| [ScaleConf](https://www.youtube.com/user/ScaleConf) |  |   |
-| [Pipeline Conf](https://www.youtube.com/channel/UC09ek6uwZKJYAxGuv5eoCrQ) |  |   |
-| [DockerCon](https://www.youtube.com/user/dockerrun/playlists) |  |   |
+| [DevOps Conference](https://www.youtube.com/channel/UCttdqyJB5wuJOO2KXea6WMQ) | Continuous Delivery, Microservices, Docker, Container | 🇬🇧  |
+| [ScaleConf](https://www.youtube.com/user/ScaleConf) |  | 🇬🇧  |
+| [Pipeline Conf](https://www.youtube.com/channel/UC09ek6uwZKJYAxGuv5eoCrQ) | Continuous Delivery | 🇬🇧  |
+| [DockerCon](https://www.youtube.com/user/dockerrun/playlists) | Docker | 🇬🇧 |
+
 
 #### Machine Learning
 
